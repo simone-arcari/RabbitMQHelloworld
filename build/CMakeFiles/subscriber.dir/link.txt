@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/subscriber.dir/src/subscriber.cpp.o -o subscriber  /usr/lib/x86_64-linux-gnu/librabbitmq.so 

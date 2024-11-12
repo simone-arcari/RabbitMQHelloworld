@@ -1,0 +1,4 @@
+/home/simo/Documents/RabbitMQHelloworld/build/CMakeFiles/publisher.dir
+/home/simo/Documents/RabbitMQHelloworld/build/CMakeFiles/subscriber.dir
+/home/simo/Documents/RabbitMQHelloworld/build/CMakeFiles/edit_cache.dir
+/home/simo/Documents/RabbitMQHelloworld/build/CMakeFiles/rebuild_cache.dir
